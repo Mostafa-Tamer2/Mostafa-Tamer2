@@ -38,7 +38,7 @@
 ### ⚙️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,git,firebase,gulp,mysql,mongodb,postgresql,laravel" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,git,supabase,gulp,mysql,mongodb,postgresql,laravel" alt="Tech stack" />
 </p>
 
 ---
