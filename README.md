@@ -48,6 +48,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
 </p>
 
+![](https://nirzak-streak-stats.vercel.app/?user=Mostafa-Tamer2&theme=dark&hide_border=false)<br/>
 ---
 
 ### 💡 Quote of the Day
